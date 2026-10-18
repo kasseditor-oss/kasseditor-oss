@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Kassio, tenho 18 anos. Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas. Sou louco por tecnologia e atuo como Motion Designer e Editor de Vídeos. De vez em quando, desenvolvo algumas coisas por aqui. Ainda não sei bem se sigo o caminho da tecnologia, mas vamos ver o que me espera."
+
  
 #
 
